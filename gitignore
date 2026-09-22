@@ -1,0 +1,10 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# No build step / no dependencies for this static site,
+# so there is nothing else to ignore.
